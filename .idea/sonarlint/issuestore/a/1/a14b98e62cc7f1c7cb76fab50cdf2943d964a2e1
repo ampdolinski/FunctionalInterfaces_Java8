@@ -1,0 +1,11 @@
+
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Þ–W8”­ï—–-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õã’`8ÇÔ³—–-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(™Î›¾8Ÿ’†—–-
+_squid:UselessImportCheck"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÇÔ³—–-
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(öœúˆ8Ýýž®ª-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Îì¾™øÿÿÿÿ8þ½®—–-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(èËÊýúÿÿÿÿ8þ½®—–-

@@ -1,0 +1,12 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(şã§ÿÿÿÿÿ8ˆÁ…“–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¦şş8èí‡“–-
+osquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(¯Ôºı8ğ°—“–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø‰ñâûÿÿÿÿ8¼›ì’–-
+Osquid:S1481	",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8Åü’–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯Ôºı8ğ°—“–-
+^squid:S1854	";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8Åü’–-
